@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0a855ac5-d42b-4b23-a946-8353e0b6516b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1V8iK1nN59CAu4Tvp9DJ1cX7p5x" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/utils/Maryland_dataloader.py" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ISRI\PycharmProjects\AnomalyCODE_fin\data\annormally_data\06t13A_10m20m" />
+      <recent name="C:\Users\ISRI\PycharmProjects\AnomalyCODE_fin\utils" />
+      <recent name="C:\Users\ISRI\PycharmProjects\AnomalyCODE_fin\data\annormally_data\065A_data" />
+      <recent name="C:\Users\ISRI\PycharmProjects\AnomalyCODE_fin\data\Nasa_data" />
+      <recent name="C:\Users\ISRI\PycharmProjects\AnomalyCODE_my" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ISRI\PycharmProjects\AnomalyCODE_fin\data\annormally_data\check_data" />
+      <recent name="C:\Users\ISRI\PycharmProjects\AnomalyCODE_fin\data\annormally_data\065A_data" />
+      <recent name="C:\Users\ISRI\PycharmProjects\AnomalyCODE_fin\SOH_Estimator" />
+      <recent name="C:\Users\ISRI\PycharmProjects\AnomalyCODE_fin\AbnormallyDetection" />
+      <recent name="C:\Users\ISRI\PycharmProjects\AnomalyCODE_fin\Test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.SOH_Anomaly_INR18650_adduncertainty">
+    <configuration name="SOH_Anomaly_INR18650" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AnomalyCODE" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AbnormallyDetection" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AbnormallyDetection/SOH_Anomaly_INR18650.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SOH_Anomaly_INR18650_adduncertainty" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AnomalyCODE" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AbnormallyDetection" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AbnormallyDetection/SOH_Anomaly_INR18650_adduncertainty.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SOH_Anomaly_Simul_INR18650" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AnomalyCODE" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AbnormallyDetection" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AbnormallyDetection/SOH_Anomaly_Simul_INR18650.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SOH_Anomaly_Simul_INR18650_adduncertainty" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AnomalyCODE" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AbnormallyDetection" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AbnormallyDetection/SOH_Anomaly_Simul_INR18650_adduncertainty.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SOH_Anomaly_Simul_Maryland" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AnomalyCODE" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AbnormallyDetection" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AbnormallyDetection/SOH_Anomaly_Simul_Maryland.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.SOH_Anomaly_INR18650_adduncertainty" />
+        <item itemvalue="Python.SOH_Anomaly_Simul_INR18650_adduncertainty" />
+        <item itemvalue="Python.SOH_Anomaly_Simul_INR18650" />
+        <item itemvalue="Python.SOH_Anomaly_Simul_Maryland" />
+        <item itemvalue="Python.SOH_Anomaly_INR18650" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0a855ac5-d42b-4b23-a946-8353e0b6516b" name="Default Changelist" comment="" />
+      <created>1576641054377</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576641054377</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1060" y="455" key="FileChooserDialogImpl" timestamp="1652763323657">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1060" y="455" key="FileChooserDialogImpl/2560.363.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1652763323657" />
+    <state width="2539" height="313" key="GridCell.Tab.0.bottom" timestamp="1653650739654">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2539" height="313" key="GridCell.Tab.0.bottom/2560.363.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1653650739654" />
+    <state width="2539" height="313" key="GridCell.Tab.0.center" timestamp="1653650739654">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2539" height="313" key="GridCell.Tab.0.center/2560.363.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1653650739654" />
+    <state width="2539" height="313" key="GridCell.Tab.0.left" timestamp="1653650739654">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2539" height="313" key="GridCell.Tab.0.left/2560.363.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1653650739654" />
+    <state width="2539" height="313" key="GridCell.Tab.0.right" timestamp="1653650739654">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2539" height="313" key="GridCell.Tab.0.right/2560.363.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1653650739654" />
+    <state x="781" y="342" key="SettingsEditor" timestamp="1647242708209">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="781" y="342" key="SettingsEditor/2560.363.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1647242708209" />
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1651832661886">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup/2560.363.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1651832661886" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Test/check_cap_entropy.py</url>
+          <line>67</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Test/check_cap_entropy.py</url>
+          <line>39</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Test/check_cap_entropy_Maryland2.py</url>
+          <line>518</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/OneDrive - 성균관대학교/PHM/인수인계/3_Anomaly/AnomalyCODE/SOH_Anomaly.py</url>
+          <line>110</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/AbnormallyDetection/SOH_Anomaly_INR18650_adduncertainty.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="plt.plot(OCV_k)" language="Python" />
+        <watch expression="plt.plot(OCV_ab)" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
