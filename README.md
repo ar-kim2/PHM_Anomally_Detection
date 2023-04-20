@@ -23,8 +23,8 @@ Then, the joint probability distribution associated with a joint vector is defin
 In this process, the distance between each data is calculated based on the convergence point, and if this distance value is out of the confidence interval, it is classified as an anomaly.
 
 # Anomaly Detection Procedure
-The process of detecting abnormal symptoms of the battery is shown in the figure below.<br>
-<img src='https://user-images.githubusercontent.com/60689555/233334156-bdeb064e-c674-4c29-affb-aa635cb10e06.png'><br>
+The process of detecting abnormal symptoms of the battery is shown in the figure below.<br><br>
+<img width='50%' height='50%' src='https://user-images.githubusercontent.com/60689555/233334156-bdeb064e-c674-4c29-affb-aa635cb10e06.png'><br><br>
 
 # Reference
 
