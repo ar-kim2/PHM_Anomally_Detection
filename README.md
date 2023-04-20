@@ -22,6 +22,10 @@ Then, the joint probability distribution associated with a joint vector is defin
 
 In this process, the distance between each data is calculated based on the convergence point, and if this distance value is out of the confidence interval, it is classified as an anomaly.
 
+# Anomaly Detection Procedure
+The process of detecting abnormal symptoms of the battery is shown in the figure below.<br>
+<img src='https://user-images.githubusercontent.com/60689555/233334156-bdeb064e-c674-4c29-affb-aa635cb10e06.png'><br>
+
 # Reference
 
 - Bakr, Muhammad Abu, and Sukhan Lee. "A general framework for data fusion and outlier removal in distributed sensor networks." 2017 IEEE International Conference on Multisensor Fusion and Integration for Intelligent Systems (MFI). IEEE, 2017.
