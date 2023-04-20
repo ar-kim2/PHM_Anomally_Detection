@@ -1,10 +1,10 @@
 # PHM_Anomally_Detection
 
-The approach to automated real-time detection of battery anomalies in distinction from battery aging based on online estimation of battery SOHs and time-varying battery model parameters.<b> 
+The approach to automated real-time detection of battery anomalies in distinction from battery aging based on online estimation of battery SOHs and time-varying battery model parameters.<br> 
 
-* Approach to online SOH prediction under inter- and intra-cycle variations of discharging current as well as non-standard charging and discharging practices. 
-* Identified in real-time time-varying parameters of a battery electric circuit model by estimating SOC-OCV curve at a cycle with the predicted SOH. 
-* Apply the covariance projection filter to two sources of battery terminal voltages, one from actual measurements and the other from the battery electric model updated with time, such that battery anomalies are detected based on a well-defined statistical hypothesis testing with confidence. Experimental results verify that the proposed approach is effective and viable for real-world applications.<br>
+- Approach to online SOH prediction under inter- and intra-cycle variations of discharging current as well as non-standard charging and discharging practices. 
+- Identified in real-time time-varying parameters of a battery electric circuit model by estimating SOC-OCV curve at a cycle with the predicted SOH. 
+- Apply the covariance projection filter to two sources of battery terminal voltages, one from actual measurements and the other from the battery electric model updated with time, such that battery anomalies are detected based on a well-defined statistical hypothesis testing with confidence. Experimental results verify that the proposed approach is effective and viable for real-world applications.<br>
 
 # Battery Physical Model
 
@@ -24,4 +24,4 @@ In this process, the distance between each data is calculated based on the conve
 
 # Reference
 
-Bakr, Muhammad Abu, and Sukhan Lee. "A general framework for data fusion and outlier removal in distributed sensor networks." 2017 IEEE International Conference on Multisensor Fusion and Integration for Intelligent Systems (MFI). IEEE, 2017.
+- Bakr, Muhammad Abu, and Sukhan Lee. "A general framework for data fusion and outlier removal in distributed sensor networks." 2017 IEEE International Conference on Multisensor Fusion and Integration for Intelligent Systems (MFI). IEEE, 2017.
